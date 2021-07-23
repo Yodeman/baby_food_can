@@ -8,7 +8,7 @@ Images used are from [here](https://scss.tcd.ie/publications/book-suplements/A-P
 
 <figure class="video_container">
     <video controls="true" allowfullscreen="False">	
-    	<source src="./anormaly_detection.webm" type="video/webm">
+    	<source src="./anormaly_detection.m4v" type="video/mp4">
     </video>
 </figure>
 
