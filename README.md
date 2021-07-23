@@ -1,6 +1,5 @@
 
 
-https://user-images.githubusercontent.com/59335237/126735109-34646c61-c561-46f2-b36e-bd9de3ffab14.mp4
 
 # BABY FOOD CAN INSPECTION SYSTEM
 
@@ -10,9 +9,7 @@ The system was implemented using template matching, and then used non-maximum su
 
 Images used are from [here](https://scss.tcd.ie/publications/book-suplements/A-Practical-Introduction-to-Computer-Vision-with-OpenCV/Problems/)
 
-<figure class="video_container">
-    <video controls="true" allowfullscreen="False">	
-    	<source src="./anormaly_detection.m4v" type="video/mp4">
-    </video>
-</figure>
+
+
+https://user-images.githubusercontent.com/59335237/126735605-60d85816-a29b-4a77-a088-e6d6916bb92e.mp4
 
