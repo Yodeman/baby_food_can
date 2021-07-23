@@ -1,3 +1,7 @@
+
+
+https://user-images.githubusercontent.com/59335237/126735109-34646c61-c561-46f2-b36e-bd9de3ffab14.mp4
+
 # BABY FOOD CAN INSPECTION SYSTEM
 
 This project is my practice on the fundamentals of computer vision. The goal of this project is to build a system that inspects baby food can packaging pipeline and then detects if there are zero or more than one spoon in a package.
